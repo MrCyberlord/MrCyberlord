@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-- ⚡ Fun fact about me: **I like to tread on paths untravelled.**
+- ⚡ **Learn and evolve**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
