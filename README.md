@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
-- ⚡ **Learn Create Evolve**
+ ⚡ **Learn Create Evolve**
 
 <h3 align="left">
 My Social Media handles lest you feel like connecting with me:</h3>
