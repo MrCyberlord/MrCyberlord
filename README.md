@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aman Jain</h1>
 <h3 align="center">A Frontend Developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw0g9cTh470YcgBW9ZwG8Gyh&ust=1682497172850000&source=images&cd=vfe&ved=2ahUKEwiOze3DzMT-AhVJb2wGHT3CDMUQjRx6BAgAEAw">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 - ⚡ Fun fact about me: **I like to tread on paths untravelled.**
 
