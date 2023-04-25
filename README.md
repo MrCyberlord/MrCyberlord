@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Aman Jain</h1>
-<h3 align="center">A passionate Frontend Developer from India.</h3>
+<h1 align="center">Hi, I'm Aman Jain</h1>
+<h3 align="center">A Frontend Developer from India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- ⚡ Fun fact **I like to tread on paths untravelled.**
+- ⚡ Fun fact about me: **I like to tread on paths untravelled.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
