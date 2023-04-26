@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Aman Jain</h1>
 <h3 align="center">A Frontend Developer from India.</h3>
 
-⚡ **Learn Create Evolve**
+⚡ **Learn Create Evolve** ⚡
+
+I am a Coder.
+I am Passionate about my Job.
+
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
