@@ -6,7 +6,7 @@
 I am a passionate coder who loves solving problems. <br>
 I am a lifelong learner. <br>
 I constantly hone my coding skills to build innovative solutions. <br>
-My fascination with technology led me to pursue a career as a programmer, where I can turn ideas into reality. <br>
+My fascination with technology has led me to pursue a career as a programmer, where I can turn ideas into reality. <br>
 
 
 
