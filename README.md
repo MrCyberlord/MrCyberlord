@@ -3,8 +3,11 @@
 
 ⚡ **Learn Create Evolve** ⚡
 
-I am a Coder.
-I am Passionate about my Job.
+I am a passionate coder who loves solving problems. <br>
+I am a lifelong learner. <br>
+I constantly hone my coding skills to build innovative solutions. <br>
+My fascination with technology led me to pursue a career as a programmer,<br> where I can turn ideas into reality. <br>
+
 
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif">
