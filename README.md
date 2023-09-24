@@ -3,7 +3,6 @@
 
 ⚡ **Learn Create Evolve** ⚡
 
-About me:
 I am a passionate coder, who loves technology. <br>
 I like creating and building digital products. <br>
 I believe in finding innovative solutions for problems yet unsolved. <br>
