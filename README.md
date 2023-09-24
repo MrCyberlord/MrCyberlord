@@ -3,9 +3,10 @@
 
 ⚡ **Learn Create Evolve** ⚡
 
-I am a passionate coder who loves solving problems. <br>
-I am a lifelong learner. <br>
-I constantly hone my coding skills to build innovative solutions. <br>
+About me:
+I am a passionate coder, who loves technology. <br>
+I like creating and building digital products. <br>
+I believe in finding innovative solutions for problems yet unsolved. <br>
 My fascination with technology has led me to pursue a career as a programmer, where I can turn ideas into reality. <br>
 
 
