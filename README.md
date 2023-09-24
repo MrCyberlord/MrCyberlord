@@ -16,7 +16,7 @@ My fascination with technology has led me to pursue a career as a programmer, wh
 
 
 <h3 align="left">
-My Social Media handles lest you feel like connecting with me:</h3>
+You can get in touch with me here:</h3>
 <p align="left">
 <a href="https://twitter.com/mrcyberlord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrcyberlord" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/theamanjain/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theamanjain/" height="30" width="40" /></a>
