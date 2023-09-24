@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Aman Jain</h1>
-<h3 align="center">A Frontend Developer from India.</h3> <br>
+<h3 align="center">A Frontend Developer from Bharat.</h3> <br>
 
 ⚡ **Learn Create Evolve** ⚡
-
+<br>
+<br>
 I am a passionate coder, who loves technology. <br>
 I like creating and building digital products. <br>
 I believe in finding innovative solutions for problems yet unsolved. <br>
