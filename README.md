@@ -10,7 +10,7 @@ I'm a Front End Engineer
 I am a passionate coder, who loves technology. I like creating and building digital products. I believe in finding innovative solutions for problems yet unsolved. My fascination with technology has led me to pursue a career as a programmer, where I can turn ideas into reality.
 
 * 🌍  I'm based in Mumbai
-[comment]: <> * 🖥️  See my portfolio at [this.link](http://amanjainportfolio2.vercel.app/) 
+* 🖥️  See my portfolio at [this.link](http://amanjainportfolio2.vercel.app/) 
 * ✉️  You can contact me at [amanjain2691@gmail.com](mailto:amanjain2691@gmail.com)
 
 <a href="https://www.x.com/MrCyberlord" target="_blank" rel="noreferrer"><img
