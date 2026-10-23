@@ -1,3 +1,6 @@
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/502ec485-f2eb-4514-99a6-caad76739769" />
+
+
 # Hey, I'm Aman Jain 👋
 
 ### ⚡ Software Developer | AI Builder | Tech Enthusiast
