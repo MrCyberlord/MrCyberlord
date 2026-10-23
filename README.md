@@ -53,16 +53,24 @@ I enjoy experimenting with new tools, solving real-world problems and turning id
 
 ---
 
-### 🌐 Let's Connect
 
+<h3>🌐 Let's Connect</h3>
 
-### 🌐 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/theamanjain/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/MrCyberlord">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MrCyberlord">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theamanjain/)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrCyberlord)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrCyberlord)
+<p align="center">
+  <i>Building. Learning. Evolving. 🚀</i>
+</p>
 
-*Building. Learning. Evolving. 🚀*
-
-
-*Building. Learning. Evolving. 🚀*
