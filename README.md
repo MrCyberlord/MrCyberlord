@@ -68,9 +68,13 @@ I enjoy experimenting with new tools, solving real-world problems and turning id
   <a href="https://github.com/MrCyberlord">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
 </p>
+
+<br><br>
 
 <p align="center">
   <i>Building. Learning. Evolving. 🚀</i>
 </p>
+
 
