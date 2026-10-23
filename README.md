@@ -1,4 +1,4 @@
-<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/502ec485-f2eb-4514-99a6-caad76739769" />
+<img width="2048" height="768" alt="image" src="https://github.com/user-attachments/assets/4c188845-fd41-45a0-b2be-910b015b7aa6" />
 
 
 # Hey, I'm Aman Jain 👋
@@ -55,6 +55,14 @@ I enjoy experimenting with new tools, solving real-world problems and turning id
 
 ### 🌐 Let's Connect
 
+
+### 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theamanjain/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/MrCyberlord)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrCyberlord)
+
+*Building. Learning. Evolving. 🚀*
+
 
 *Building. Learning. Evolving. 🚀*
